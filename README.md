@@ -1,5 +1,5 @@
 # N.S.I.S
 
-![Image 1](demo/image.png)
-![Image 2](demo/image1.png)
-![Image 3](demo/image2.png)
+![Image 1](https://i.imgur.com/CxwG3Sn.png)
+![Image 2](https://i.imgur.com/UDTych3.png)
+![Image 3](https://i.imgur.com/aBwMsKd.png)
